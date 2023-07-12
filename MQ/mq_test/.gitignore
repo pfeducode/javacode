@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+.idea
+.mvn
+target
+HELP.md
+mvnw
+mvnw.cmd
